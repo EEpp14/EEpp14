@@ -2,7 +2,7 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](Link to repository goes here)
+- [Virtual Home Lab Environment](Link to repository goes here)
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](link to repository here)
