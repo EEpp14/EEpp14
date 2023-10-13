@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ethan! <br/><a href="https://www.linkedin.com/in/ethan-epperson-8608b5277/">Cybersecurity | Data Analytics Student</a></h1>
+<h1>I'm Ethan, Welcome to my page! <br/><a href="https://www.linkedin.com/in/ethan-epperson-8608b5277/">Cybersecurity | Data Analytics Student</a></h1>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
